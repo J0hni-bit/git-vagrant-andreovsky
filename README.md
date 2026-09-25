@@ -1,5 +1,13 @@
 MOJE Řešení
 
+Distribuce a verze
+
+Debian GNU/Linux 13
+
+Adresář Serveru
+
+srv01
+
 **Kontrolní kód:** `SPOS-3I-2eb1cefbe42d10bd5a855cfe360b6fe7309ae103352ae6a7636cd43ce9c594af`
 
 ```text
